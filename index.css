@@ -10,7 +10,7 @@ body {
 .navigation {
   width: 90%;
   height: 85px;
-  padding: 0;
+  padding: 10px 0px 0px 0px;
   margin: 0 auto;
   position: relative;
 }
